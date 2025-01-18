@@ -2,6 +2,9 @@ class Main{
 public static int add(int a,int b){	
            return num1 + num2
        }
+public static int sub(int a,int b){
+        return num1 - num2
+      }
 public static void main(String str){
     }
 }
